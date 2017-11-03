@@ -1,0 +1,23 @@
+{
+  "name": "base-theme",
+  "version": "1.0.0",
+  "homepage": "",
+  "description": "Bootstrap 3 base theme",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Anne Minford"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "latest",
+    "fontawesome": "latest"
+  }
+}
